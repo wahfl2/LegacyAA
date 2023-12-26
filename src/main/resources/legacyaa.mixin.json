@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.6",
+  "package": "com.wahfl.legacyaa.mixin",
+  "refmap": "legacyaa.mixin.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": [
+    "FramebufferMixin",
+    "MinecraftMixin"
+  ]
+}
